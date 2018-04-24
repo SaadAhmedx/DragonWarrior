@@ -1,0 +1,60 @@
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.exe.config
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.exe
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.pdb
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Form1.resources
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Properties.Resources.resources
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.csproj.GenerateResource.Cache
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.exe
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.pdb
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.csprojResolveAssemblyReference.cache
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.HighScore.resources
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Instruction.resources
+c:\users\tech-hp\documents\visual studio 2012\Projects\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.StartGame.resources
+F:\new\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.exe.config
+F:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.exe
+F:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.pdb
+F:\new\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.exe
+F:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.csprojResolveAssemblyReference.cache
+F:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Form1.resources
+F:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.HighScore.resources
+F:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Instruction.resources
+F:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Properties.Resources.resources
+F:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.StartGame.resources
+F:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.csproj.GenerateResource.Cache
+F:\new\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.pdb
+D:\new\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.exe.config
+D:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.exe
+D:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.pdb
+D:\new\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.exe
+D:\new\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.pdb
+D:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.csprojResolveAssemblyReference.cache
+D:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Form1.resources
+D:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.HighScore.resources
+D:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Instruction.resources
+D:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Properties.Resources.resources
+D:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.StartGame.resources
+D:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.csproj.GenerateResource.Cache
+E:\new\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.exe.config
+E:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.exe
+E:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.pdb
+E:\new\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.exe
+E:\new\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.pdb
+E:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.csprojResolveAssemblyReference.cache
+E:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Form1.resources
+E:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.HighScore.resources
+E:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Instruction.resources
+E:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Properties.Resources.resources
+E:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.StartGame.resources
+E:\new\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.csproj.GenerateResource.Cache
+F:\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.exe.config
+F:\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.exe
+F:\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.pdb
+F:\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.csprojResolveAssemblyReference.cache
+F:\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Form1.resources
+F:\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.HighScore.resources
+F:\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Instruction.resources
+F:\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.Properties.Resources.resources
+F:\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.StartGame.resources
+F:\DragonWarrior\DragonWarrior\obj\Debug\DragonWarrior.csproj.GenerateResource.Cache
+F:\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.exe
+F:\DragonWarrior\DragonWarrior\bin\Debug\DragonWarrior.pdb
